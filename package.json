@@ -1,5 +1,23 @@
 {
-  "dependencies": {
-    "xmlhttprequest": "^1.8.0"
-  }
+  "name": "curso-asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "00-EventLoop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gatotorres/Curso-ASINCRONISMO-javascript.git"
+  },
+  "keywords": [
+    "async",
+    "Javascript"
+  ],
+  "author": "Nahuel Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gatotorres/Curso-ASINCRONISMO-javascript/issues"
+  },
+  "homepage": "https://github.com/Gatotorres/Curso-ASINCRONISMO-javascript#readme"
 }

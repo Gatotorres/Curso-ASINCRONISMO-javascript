@@ -148,7 +148,7 @@ console.group('Playground Cuarto ejemplo CallBack')
 
 function execCallback(callback) {
     window.setTimeout(callback,2000)
-  }
-  console.log(execCallback('hola'));
+}
+console.log(execCallback('hola'));
 
 console.groupEnd('Playground Cuarto ejemplo CallBack')
